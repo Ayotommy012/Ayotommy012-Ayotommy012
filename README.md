@@ -1,5 +1,9 @@
 <div align="center">
   <img src="assets/hero.svg" alt="Ayotomiwa Apelegan - Backend Engineer" />
+  <br/>
+  <a href="https://github.com/Ayotommy012">
+    <img src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=600&size=16&pause=1000&color=79C0FF&center=true&vCenter=true&width=500&lines=Backend+Systems;Python+%2B+TypeScript;Data+Infrastructure;AI-powered+Systems" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
