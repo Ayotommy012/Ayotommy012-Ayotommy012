@@ -72,7 +72,7 @@ I build **backend systems, APIs, and developer infrastructure** primarily using 
 
 ## 📬 Contact
 
-<a href="https://www.linkedin.com/in/apelaganisrael">
+<a href="https://www.linkedin.com/in/israel-apelegan-b5269b249/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/Ayotommy012">
