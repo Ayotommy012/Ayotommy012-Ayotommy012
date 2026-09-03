@@ -72,6 +72,11 @@ I build **backend systems, APIs, and developer infrastructure** primarily using 
 
 ### Recent Commits
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com/Ayotommy012/bookslot-api/pull/3) in [Ayotommy012/bookslot-api](https://github.com/Ayotommy012/bookslot-api)
+2. 💪 Opened PR [#3](https://github.com/Ayotommy012/bookslot-api/pull/3) in [Ayotommy012/bookslot-api](https://github.com/Ayotommy012/bookslot-api)
+3. 🎉 Merged PR [#2](https://github.com/Ayotommy012/bookslot-api/pull/2) in [Ayotommy012/bookslot-api](https://github.com/Ayotommy012/bookslot-api)
+4. 🗣 Commented on [#2](https://github.com/Ayotommy012/bookslot-api/pull/2#issuecomment-5353592204) in [Ayotommy012/bookslot-api](https://github.com/Ayotommy012/bookslot-api)
+5. 💪 Opened PR [#2](https://github.com/Ayotommy012/bookslot-api/pull/2) in [Ayotommy012/bookslot-api](https://github.com/Ayotommy012/bookslot-api)
 <!--END_SECTION:activity-->
 
 ## 📬 Contact
